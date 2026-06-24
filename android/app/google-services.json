@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009056255714",
+    "project_id": "subito-3404b",
+    "storage_bucket": "subito-3404b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009056255714:android:dd333e29ee2d8436efd8bb",
+        "android_client_info": {
+          "package_name": "com.subito_alert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAcK_zfEmNVNeCk8SQbfTgwbUW77jPZKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
