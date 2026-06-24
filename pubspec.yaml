@@ -1,0 +1,15 @@
+name: subito_alert
+description: Un'app in stile Pixel per gestire le ricerche su Subito.it.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.0.0
+  cloud_firestore: ^5.0.0
+
+flutter:
+  uses-material-design: true
